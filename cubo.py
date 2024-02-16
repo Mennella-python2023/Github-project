@@ -2,7 +2,7 @@ def cubo(c):
     """
     Funzione che calcola
     il cubo
-    del numero passato come parametro
+    del numero passato come parametro!
     """
     return(c*c*c)
 
