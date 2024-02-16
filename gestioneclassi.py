@@ -18,5 +18,5 @@ class Persona(object):
 
 p1 = Persona('Andrea', 'Guidi')
 p1.visualizza()
-p1.cambiaNome('Pippo')
+p1.cambiaNome('Topolino')
 p1.visualizza()

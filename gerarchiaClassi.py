@@ -44,5 +44,5 @@ class Orario(Impiegato, Tempo):
         Impiegato.visualizza(self)
         Tempo.visualizza(self)
 print(Orario.__mro__)
-o1 = Orario('Lunedì', 3, 'Mathema', 'Alex', 'Bellini', 10, 0, 0)
+o1 = Orario('Lunedì', 3, 'Mathema', 'Alessandro', 'Bellini', 10, 0, 0)
 o1.visualizza()
